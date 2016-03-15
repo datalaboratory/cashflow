@@ -1,0 +1,94 @@
+Rtype,RegionCode,RegionName,Money_jn
+federation,Russian Federation,Российская Федерация,0
+fregion,RU-BEL,Белгородская область,0
+fregion,RU-BRY,Брянская область,0
+fregion,RU-VLA,Владимирская область,0
+fregion,RU-VOR,Воронежская область,0
+fregion,RU-IVA,Ивановская область,0
+fregion,RU-KLU,Калужская область,0
+fregion,RU-KOS,Костромская область,0
+fregion,RU-KRS,Курская область,0
+fregion,RU-LIP,Липецкая область,0
+fregion,RU-MOW,Москва,0
+fregion,RU-MOS,Московская область,0
+fregion,RU-ORL,Орловская область,0
+fregion,RU-RYA,Рязанская область,0
+fregion,RU-SMO,Смоленская область,0
+fregion,RU-TAM,Тамбовская область,0
+fregion,RU-TVE,Тверская область,0
+fregion,RU-TUL,Тульская область,0
+fregion,RU-YAR,Ярославская область,0
+fdistrict,Central,Центральный округ,0
+fregion,RU-KR,Республика Карелия,0
+fregion,RU-KO,Республика Коми,0
+fregion,RU-ARK,Архангельская область,0
+fregion,RU-VLG,Вологодская область,0
+fregion,RU-KGD,Калининградская область,0
+fregion,RU-LEN,Ленинградская область,0
+fregion,RU-SPE,Санкт-Петербург,0
+fregion,RU-MUR,Мурманская область,0
+fregion,RU-NGR,Новгородская область,0
+fregion,RU-PSK,Псковская область,0
+fregion,RU-NEN,Ненецкий авт.округ,0
+fdistrict,Northwestern,Северо-Западный округ,0
+fregion,RU-AD,Республика Адыгея,0
+fregion,RU-KL,Республика Калмыкия,0
+fregion,RU-KDA,Краснодарский край,0
+fregion,RU-AST,Астраханская область,0
+fregion,RU-VGG,Волгоградская область,0
+fregion,RU-ROS,Ростовская область,0
+fdistrict,Southern,Южный округ,0
+fregion,RU-DA,Республика Дагестан,0
+fregion,RU-IN,Республика Ингушетия,0
+fregion,RU-KB,Кабардино-Балкарская Республика,0
+fregion,RU-KC,Карачаево-Черкесская Республика,0
+fregion,RU-SE,Республика Северная Осетия,0
+fregion,RU-CE,Чеченская Республика,0
+fregion,RU-CE & RU-IN,Чеченская Республика и Республика Ингушетия,0
+fregion,RU-STA,Ставропольский край,0
+fdistrict,Northcaucasian,Северо-Кавказский округ,0
+fregion,RU-BA,Республика Башкортостан,0
+fregion,RU-ME,Республика Марий Эл,0
+fregion,RU-MO,Республика Мордовия,0
+fregion,RU-TA,Республика Татарстан,0
+fregion,RU-UD,Удмуртская Республика,0
+fregion,RU-CU,Чувашская Республика,0
+fregion,RU-PER,Пермский край,0
+fregion,RU-KIR,Кировская область,0
+fregion,RU-NIZ,Нижегородская область,0
+fregion,RU-ORE,Оренбургская область,0
+fregion,RU-PNZ,Пензенская область,0
+fregion,RU-SAM,Самарская область,0
+fregion,RU-SAR,Саратовская область,0
+fregion,RU-ULY,Ульяновская область,0
+fdistrict,Volga,Приволжский округ,0
+fregion,RU-KGN,Курганская область,0
+fregion,RU-SVE,Свердловская область,0
+fregion,RU-TYU,Тюменская область,0
+fregion,RU-CHE,Челябинская область,0
+fregion,RU-KHM,Ханты-мансийский авт.округ,0
+fregion,RU-YAN,Ямало-ненецкий авт.округ,0
+fdistrict,Urals,Уральский округ,0
+fregion,RU-AL,Республика Алтай,0
+fregion,RU-BU,Республика Бурятия,0
+fregion,RU-TY,Республика Тыва,0
+fregion,RU-KK,Республика Хакасия,0
+fregion,RU-ALT,Алтайский край,0
+fregion,RU-ZAB,Забайкальский край,0
+fregion,RU-KYA,Красноярский край,0
+fregion,RU-IRK,Иркутская область,0
+fregion,RU-KEM,Кемеровская область,0
+fregion,RU-NVS,Новосибирская область,0
+fregion,RU-OMS,Омская область,0
+fregion,RU-TOM,Томская область,0
+fdistrict,Siberia,Сибирский округ,0
+fregion,RU-SA,Республика Саха (Якутия),0
+fregion,RU-PRI,Приморский край,0
+fregion,RU-KAM,Камчатский край,0
+fregion,RU-KHA,Хабаровский край,0
+fregion,RU-AMU,Амурская область,0
+fregion,RU-MAG,Магаданская область,0
+fregion,RU-SAK,Сахалинская область,0
+fregion,RU-YEV,Еврейская автономная область,0
+fregion,RU-CHU,Чукотский авт.округ,0
+fdistrict,Far_Eastern,Дальневосточный округ,0
